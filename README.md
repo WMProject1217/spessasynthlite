@@ -2,6 +2,8 @@ This library is based on SpessaSynth_Core and SpessaSynth_Lib version 4.3.0, exp
 
 If you have problem when using this library, please send issue to me first, I will find out if this is a bug in this program or in the original project. The SpessaSynth_Core and SpessaSynth_Lib part have been modified so that some bugs may appear.
 
+Still doing lite works, you may need to watch this for the latest changes.
+
 
 
 # How to use
