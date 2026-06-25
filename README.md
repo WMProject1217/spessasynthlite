@@ -1,4 +1,5 @@
 This library is based on SpessaSynth_Core and SpessaSynth_Lib version 4.3.0, exporting easier interface for wmcomlib.js2 users.
+
 If you have problem when using this library, please send issue to me first, I will find out if this is a bug in this program or in the original project. The SpessaSynth_Core and SpessaSynth_Lib part have been modified so that some bugs may appear.
 
 
@@ -25,11 +26,19 @@ _genesis_.lib.SpessaSynth.RunTime_Sequencer.play();
 
 The SpessaSynth_Core and SpessaSynth_Lib project is by Spessasus and share under Apache-2.0 License.
 
+
 https://github.com/spessasus/spessasynth_lib
+
 https://github.com/spessasus/spessasynth_core
 
+
+
 This project is in no way endorsed or otherwise affiliated with the MIDI Manufacturers Association,
+
 Roland Corporation, Yamaha Corporation, Creative Technology Ltd. or E-mu Systems, Inc.,
+
 or any other organization mentioned.
+
 SoundFont® is a registered trademark of Creative Technology Ltd.
+
 All other trademarks are the property of their respective owners.
